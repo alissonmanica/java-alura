@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/pom.xml" />
         <option value="$PROJECT_DIR$/bytebank/pom.xml" />
+        <option value="$PROJECT_DIR$/bytebank-composto/pom.xml" />
       </list>
     </option>
   </component>
